@@ -7,4 +7,5 @@
 - Each person can be checked by clicking the "<" and ">" buttons
 - The web could display people's information automatically with 2 secs' interval
 
+### A capture of the web
 <img src ="overview.png" width = 50% height = 50%>
